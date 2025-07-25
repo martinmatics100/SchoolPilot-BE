@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE64E32-E978-42EE-A91B-DFC0CBFD183C}|src\\SchoolPilot.Api\\SchoolPilot.Api.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.api\\controllers\\standalone\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE64E32-E978-42EE-A91B-DFC0CBFD183C}|src\\SchoolPilot.Api\\SchoolPilot.Api.csproj|solutionrelative:src\\schoolpilot.api\\controllers\\standalone\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE64E32-E978-42EE-A91B-DFC0CBFD183C}|src\\SchoolPilot.Api\\SchoolPilot.Api.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE64E32-E978-42EE-A91B-DFC0CBFD183C}|src\\SchoolPilot.Api\\SchoolPilot.Api.csproj|solutionrelative:src\\schoolpilot.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE64E32-E978-42EE-A91B-DFC0CBFD183C}|src\\SchoolPilot.Api\\SchoolPilot.Api.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.api\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE64E32-E978-42EE-A91B-DFC0CBFD183C}|src\\SchoolPilot.Api\\SchoolPilot.Api.csproj|solutionrelative:src\\schoolpilot.api\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8BCB2-DB2A-44B6-8656-FC848CE6DC1A}|src\\SchoolPilot.Host.SelfHost\\SchoolPilot.Host.SelfHost.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.host.selfhost\\serviceregistration\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8BCB2-DB2A-44B6-8656-FC848CE6DC1A}|src\\SchoolPilot.Host.SelfHost\\SchoolPilot.Host.SelfHost.csproj|solutionrelative:src\\schoolpilot.host.selfhost\\serviceregistration\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81776613-91AA-4599-ACFB-404168718D53}|src\\SchoolPilot.Infrastructure\\SchoolPilot.Infrastructure.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.infrastructure\\queries\\general\\getstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81776613-91AA-4599-ACFB-404168718D53}|src\\SchoolPilot.Infrastructure\\SchoolPilot.Infrastructure.csproj|solutionrelative:src\\schoolpilot.infrastructure\\queries\\general\\getstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81776613-91AA-4599-ACFB-404168718D53}|src\\SchoolPilot.Infrastructure\\SchoolPilot.Infrastructure.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.infrastructure\\queries\\subjects\\getsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81776613-91AA-4599-ACFB-404168718D53}|src\\SchoolPilot.Infrastructure\\SchoolPilot.Infrastructure.csproj|solutionrelative:src\\schoolpilot.infrastructure\\queries\\subjects\\getsubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81776613-91AA-4599-ACFB-404168718D53}|src\\SchoolPilot.Infrastructure\\SchoolPilot.Infrastructure.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.infrastructure\\queries\\general\\getcountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81776613-91AA-4599-ACFB-404168718D53}|src\\SchoolPilot.Infrastructure\\SchoolPilot.Infrastructure.csproj|solutionrelative:src\\schoolpilot.infrastructure\\queries\\general\\getcountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE19FBFA-7539-4C83-8536-2C3C14D45E36}|src\\SchoolPilot.Common\\SchoolPilot.Common.csproj|c:\\users\\marti\\desktop\\my-local-repo-folder\\01-schoolpilot\\schoolpilot-be\\schoolpilot-be\\src\\schoolpilot.common\\enums\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE19FBFA-7539-4C83-8536-2C3C14D45E36}|src\\SchoolPilot.Common\\SchoolPilot.Common.csproj|solutionrelative:src\\schoolpilot.common\\enums\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCountries.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Infrastructure\\Queries\\General\\GetCountries.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Infrastructure\\Queries\\General\\GetCountries.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Infrastructure\\Queries\\General\\GetCountries.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Infrastructure\\Queries\\General\\GetCountries.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA7wDIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:14:42.723Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Common\\Enums\\Permissions.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Common\\Enums\\Permissions.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Common\\Enums\\Permissions.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Common\\Enums\\Permissions.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:58:26.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Host.SelfHost\\ServiceRegistration\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Host.SelfHost\\ServiceRegistration\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Host.SelfHost\\ServiceRegistration\\ServiceConfiguration.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Host.SelfHost\\ServiceRegistration\\ServiceConfiguration.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAAPMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:54:59.036Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Api\\Controllers\\LookupController.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Api\\Controllers\\LookupController.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Api\\Controllers\\LookupController.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Api\\Controllers\\LookupController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAMwDAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:45:32.683Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Api\\Controllers\\StandAlone\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Api\\Controllers\\StandAlone\\AuthController.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Api\\Controllers\\StandAlone\\AuthController.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Api\\Controllers\\StandAlone\\AuthController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:54:13.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetStates.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Infrastructure\\Queries\\General\\GetStates.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Infrastructure\\Queries\\General\\GetStates.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Infrastructure\\Queries\\General\\GetStates.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Infrastructure\\Queries\\General\\GetStates.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:36:31.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Api\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Api\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Api\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Api\\Controllers\\SubjectController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:31:29.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetSubjects.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Infrastructure\\Queries\\Subjects\\GetSubjects.cs",
+              "RelativeDocumentMoniker": "src\\SchoolPilot.Infrastructure\\Queries\\Subjects\\GetSubjects.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\My-Local-Repo-Folder\\01-SchoolPilot\\SchoolPilot-BE\\SchoolPilot-BE\\src\\SchoolPilot.Infrastructure\\Queries\\Subjects\\GetSubjects.cs",
+              "RelativeToolTip": "src\\SchoolPilot.Infrastructure\\Queries\\Subjects\\GetSubjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:18:20.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@SchoolPilot.Host.SelfHost_HostAddress = http://localhost:5072
+
+GET {{SchoolPilot.Host.SelfHost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

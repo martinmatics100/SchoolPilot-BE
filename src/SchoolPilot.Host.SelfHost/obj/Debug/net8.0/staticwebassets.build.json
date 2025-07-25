@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HRrjTtoGuo/TwaAL74PzQMOrLUcrIttvnNkWtXYXGBo=",
+  "Source": "SchoolPilot.Host.SelfHost",
+  "BasePath": "_content/SchoolPilot.Host.SelfHost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

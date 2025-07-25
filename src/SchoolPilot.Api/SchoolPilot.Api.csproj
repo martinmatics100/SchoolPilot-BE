@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Asp.Versioning.Mvc" Version="8.1.0" />
+    <PackageReference Include="EasyCaching.Redis" Version="1.9.2" />
+    <PackageReference Include="MediatR" Version="8.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.5" />
+    <PackageReference Include="NLog" Version="5.5.0" />
+    <PackageReference Include="NodaTime" Version="3.2.2" />
+    <PackageReference Include="StackExchange.Redis.Extensions.Core" Version="11.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SchoolPilot.Common\SchoolPilot.Common.csproj" />
+    <ProjectReference Include="..\SchoolPilot.Host\SchoolPilot.Host.csproj" />
+    <ProjectReference Include="..\SchoolPilot.Infrastructure\SchoolPilot.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

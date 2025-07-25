@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\bin\Debug\net8.0\SchoolPilot.Business.deps.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\bin\Debug\net8.0\SchoolPilot.Business.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\bin\Debug\net8.0\SchoolPilot.Business.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.AssemblyInfo.cs
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.sourcelink.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\refint\SchoolPilot.Business.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\SchoolPilot.Business.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Business\obj\Debug\net8.0\ref\SchoolPilot.Business.dll

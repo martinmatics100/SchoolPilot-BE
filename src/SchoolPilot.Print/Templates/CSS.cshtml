@@ -1,0 +1,346 @@
+﻿<style>
+    body {
+        line-height: 1.1rem !important;
+    }
+
+    .header-wrapper {
+        display: table;
+        width: 100%;
+        padding-top: 25px;
+    }
+
+    .sub-header-wrapper {
+        display: table;
+        width: 100%;
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    .header {
+        display: table-row;
+        width: 100%;
+    }
+
+    .header-agency,
+    .header-form,
+    .attendance-columns {
+        border: 1px solid black;
+        width: 50%;
+        padding: .1rem;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .header-agency {
+        padding-left: .45rem;
+    }
+
+    .header-form > div {
+        line-height: 1.3rem;
+    }
+
+    .header-patient-info,
+    .header-meeting-info {
+        padding: .1rem;
+        display: table-cell;
+    }
+
+    .header-agency > div {
+        line-height: 1.1rem;
+    }
+
+    .header-form,
+    .attendance-columns {
+        text-align: center;
+    }
+
+    .attendance-columns {
+        width: 33%;
+    }
+
+    .table-stripe-pattern:nth-child(odd) {
+        background-color: rgba(0,0,0,.05);
+    }
+
+    .header-patient,
+    .header-team,
+    .header-patient-info-title,
+    .header-Idg-info-title {
+        border: 1px solid black;
+        padding: .1rem;
+        font-weight: bold;
+        font-size: 18px;
+        box-sizing: border-box;
+        display: table-cell;
+        width: 100%;
+    }
+
+    .header-patient-info-title,
+    .header-Idg-info-title {
+        text-align: center;
+    }
+
+    .header-form .title {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .section {
+        page-break-inside: avoid;
+        border: 1px solid black;
+    }
+
+    .question-wrapper {
+        width: 100%;
+        border: 1px solid black;
+        page-break-inside: avoid;
+    }
+
+    .section-label {
+        font-weight: bold;
+        border: 1px solid black;
+        width: 100%;
+        text-align: center;
+        page-break-inside: avoid;
+    }
+
+    .header-allergy {
+        border: 1px solid black;
+        border-top: 2px;
+        border-bottom: 2px;
+        border-color: black;
+        border-style: solid;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .question {
+        page-break-inside: avoid;
+    }
+
+    .answer-wrapper {
+        float: left;
+        width: 50%;
+        padding: .1rem;
+    }
+
+    .text-area-answer-wrapper {
+        float: left;
+        width: 100%;
+        padding: .1rem;
+    }
+
+    .answer-label-wrapper {
+        float: left;
+        width: 50%;
+    }
+
+    .text-area-answer-label-wrapper {
+        float: left;
+        width: 100%;
+    }
+
+    .answer-label {
+        font-weight: bold;
+    }
+
+    .answer-value-wrapper {
+        float: left;
+        width: 50%;
+    }
+
+    .text-area-answer-value-wrapper {
+        float: left;
+        width: 100%;
+    }
+
+    .answer-value {
+        display: block;
+    }
+
+    .page-break-wrapper {
+        page-break-inside: avoid;
+    }
+
+    .score-table-border,
+    .list-label,
+    .list-entry {
+        border-bottom: 1px solid grey;
+    }
+
+    .list-label {
+        text-align: center;
+    }
+
+    .table-bordered {
+        width: 100%;
+        border-color: black;
+        page-break-inside: auto;
+    }
+
+    .table-consecutive-first {
+        margin-bottom: 0;
+        padding-bottom: 0;
+        table-layout: fixed;
+        font-size: 14px;
+        border-top: none;
+    }
+
+    .table-consecutive {
+        margin-top: 0;
+        padding-top: 0;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-top: none;
+        table-layout: fixed;
+        font-size: 14px;
+    }
+
+    .nested-half-table {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+        border-width: 0 !important;
+        width: 50% !important;
+    }
+
+    .nested-third-table {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+        border-width: 0 !important;
+        width: 33% !important;
+    }
+
+    .text-use-newline {
+        white-space: pre-wrap;
+    }
+
+    .table.table-bordered thead th {
+        border-color: black;
+    }
+
+    .table-bordered thead tr, .table-bordered td, .table-bordered th {
+        border-color: black;
+    }
+
+    .table-head {
+        text-align: center;
+        font-size: 24px;
+    }
+
+    .table-row {
+        page-break-inside: avoid;
+        page-break-after: auto;
+        border-color: black;
+    }
+
+    .column-head {
+        border-width: 0 1px 0 1px;
+        border-color: black;
+        border-style: solid;
+        font-size: 2px;
+    }
+
+    .allergies {
+        border-width: 0 1px 0 1px;
+        border-color: black;
+        border-style: solid;
+        width: 100%;
+        padding: .1rem;
+        font-size: 18px;
+        clear: both;
+    }
+
+    .allergy-label {
+        padding: 0.1rem;
+        padding-left: 0.4rem;
+        text-align: left;
+        border: 1px solid black;
+    }
+
+    .signed-wrapper {
+        display: table;
+        width: 100%;
+        page-break-inside: avoid;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        padding-left: 10px;
+        border-width: 0 1px 0 1px;
+        border-color: black;
+        border-style: solid;
+    }
+
+    .signed-acknowledgement {
+        padding: 10px;
+    }
+
+    .signed-employee {
+        padding-left: 10px;
+        font-size: 18px;
+    }
+
+    .signed-employee-info {
+        padding: .1rem;
+        padding-left: 20px;
+        display: table-cell;
+    }
+
+    tr td.no-border {
+        border: none !important;
+    }
+
+    div .table-header {
+        border: solid black 1px;
+        border-top: none;
+        border-bottom: none;
+        text-align: center;
+        font-size: 16px;
+        font-weight: bold;
+        padding-top: 3px;
+        padding-bottom: 3px;
+    }
+
+    .main-body {
+        font-size: 13px;
+        margin: 0 0 10px 0;
+    }
+
+    .email {
+        font-family: arial, sans-serif;
+        font-size: 11px;
+        padding: 0;
+        border: 0;
+        outline: 0;
+    }
+
+    hr {
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #ccc;
+        margin: 1em 0;
+        padding: 0;
+    }
+
+    .fb-entry {
+        padding-top: .4em;
+        padding-bottom: .4em;
+    }
+
+    .table-image-column {
+        border-color: white !important;
+        border-left: 1px solid black !important;
+    }
+
+    .table-adress-column {
+        border-color: white !important;
+        border-right: 1px solid black !important;
+    }
+
+    .table-bottom-row .table-adress-column {
+        border-bottom: 1px solid black !important;
+    }
+
+    .table-bottom-row .table-image-column {
+        border-bottom: 1px solid black !important;
+    }
+</style>

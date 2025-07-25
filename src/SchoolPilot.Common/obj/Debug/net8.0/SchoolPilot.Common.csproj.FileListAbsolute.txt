@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\bin\Debug\net8.0\SchoolPilot.Common.deps.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\bin\Debug\net8.0\SchoolPilot.Common.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\bin\Debug\net8.0\SchoolPilot.Common.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.AssemblyInfo.cs
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.sourcelink.json
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\refint\SchoolPilot.Common.dll
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\SchoolPilot.Common.pdb
+C:\Users\marti\Desktop\My-Local-Repo-Folder\01-SchoolPilot\SchoolPilot-BE\SchoolPilot-BE\src\SchoolPilot.Common\obj\Debug\net8.0\ref\SchoolPilot.Common.dll
